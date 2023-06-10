@@ -1,7 +1,9 @@
 # Survey Results Analysis - Power BI 
 Data Analysis on a dataset of results of a survey taken by Data Professionals, using Power BI.
 
+
 Skills Shown:
+
 Analyzed the results of a survey taken by Data Professionals.
 
 Cleaned and Transformed the data  using Power Query in Power BI.
